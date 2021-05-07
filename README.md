@@ -35,9 +35,11 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
   [![blog](https://img.shields.io/badge/-Blog-success?style=plastic)](https://yanxiaolazy.github.io)
 - ⚡ Fun fact: Code is my greatest pleasure
 
-[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api?username=yanxiaolazy&theme=dark&show_icons=true)](https://github.com/yanxiaolazy)
+[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api?username=yanxiaolazy&show_icons=true)](https://github.com/yanxiaolazy)
 
-[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yanxiaolazy&repo=pack-tools&theme=dark)](https://github.com/yanxiaolazy/pack-tools)
+[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yanxiaolazy&repo=pack-tools)](https://github.com/yanxiaolazy/pack-tools)
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [使用canal连接kafka](https://yanxiaolazy.github.io/2021/04/20/%E4%BD%BF%E7%94%A8canal%E8%BF%9E%E6%8E%A5kafka/)
