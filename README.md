@@ -37,7 +37,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 [![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api?username=yanxiaolazy&show_icons=true)](https://github.com/yanxiaolazy)
 
-[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yanxiaolazy&repo=pack-tools)](https://github.com/yanxiaolazy/pack-tools)
+[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yanxiaolazy&repo=rc-upload-file)](https://github.com/yanxiaolazy/rc-upload-file)
 
 ## 📕 Latest Blog Posts
 
