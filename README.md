@@ -35,9 +35,11 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
   [![blog](https://img.shields.io/badge/-Blog-success?style=plastic)](https://yanxiaolazy.github.io)
 - ⚡ Fun fact: Code is my greatest pleasure
 
-[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api?username=yanxiaolazy&show_icons=true)](https://github.com/yanxiaolazy)
-
-[![yanxiaolazy's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yanxiaolazy&repo=rc-upload-file)](https://github.com/yanxiaolazy/rc-upload-file)
+<a href="https://github.com/yanxiaolazy">
+<img align="GitHub Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=yanxiaolazy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" />
+</a><a href="https://github.com/yanxiaolazy/yanxiaolazy">
+  <img align="Top Langs" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanxiaolazy&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0" />
+</a>
 
 ## 📕 Latest Blog Posts
 
