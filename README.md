@@ -44,9 +44,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [git 用法](https://yanxiaolazy.github.io/2021/07/15/git-%E7%94%A8%E6%B3%95/)
 - [typeof的用法](https://yanxiaolazy.github.io/2021/06/30/typeof%E7%9A%84%E7%94%A8%E6%B3%95/)
 - [eslint 搭配 vscode 的简单使用](https://yanxiaolazy.github.io/2021/05/12/eslint-%E6%90%AD%E9%85%8D-vscode-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/)
 - [使用canal连接kafka](https://yanxiaolazy.github.io/2021/04/20/%E4%BD%BF%E7%94%A8canal%E8%BF%9E%E6%8E%A5kafka/)
 - [定型数组(typed array)](https://yanxiaolazy.github.io/2021/04/09/%E5%AE%9A%E5%9E%8B%E6%95%B0%E7%BB%84-typed-array/)
-- [执行上下文，作用域和垃圾清理](https://yanxiaolazy.github.io/2021/03/27/%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%86/)
 <!-- BLOG-POST-LIST:END -->
