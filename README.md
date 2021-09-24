@@ -44,9 +44,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Context](https://yanxiaolazy.github.io/2021/09/23/React%E4%B9%8BContext/)
 - [FormData多文件上传并同时添加其他数据](https://yanxiaolazy.github.io/2021/09/10/FormData%E5%A4%9A%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B9%B6%E5%90%8C%E6%97%B6%E6%B7%BB%E5%8A%A0%E5%85%B6%E4%BB%96%E6%95%B0%E6%8D%AE/)
 - [git 用法](https://yanxiaolazy.github.io/2021/07/15/git-%E7%94%A8%E6%B3%95/)
 - [typeof的用法](https://yanxiaolazy.github.io/2021/06/30/typeof%E7%9A%84%E7%94%A8%E6%B3%95/)
 - [eslint 搭配 vscode 的简单使用](https://yanxiaolazy.github.io/2021/05/12/eslint-%E6%90%AD%E9%85%8D-vscode-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/)
-- [使用canal连接kafka](https://yanxiaolazy.github.io/2021/04/20/%E4%BD%BF%E7%94%A8canal%E8%BF%9E%E6%8E%A5kafka/)
 <!-- BLOG-POST-LIST:END -->
