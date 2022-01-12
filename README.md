@@ -36,7 +36,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 - ⚡ Fun fact: Code is my greatest pleasure
 
 <a href="https://github.com/yanxiaolazy">
-<img align="GitHub Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=yanxiaolazy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" />
+<img align="GitHub Stats" height="137px" src="https://github-readme-stats.vercel.app/api?username=yanxiaolazy&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=vue-dark&border_radius=0" />
 </a><a href="https://github.com/yanxiaolazy/yanxiaolazy">
   <img align="Top Langs" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanxiaolazy&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0" />
 </a>
