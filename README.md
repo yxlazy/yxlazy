@@ -44,9 +44,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在函数组件中，如何实现shouldComponentUpdate](https://blog.yxlazy.xyz/2022/08/04/%E5%9C%A8%E5%87%BD%E6%95%B0%E7%BB%84%E4%BB%B6%E4%B8%AD%EF%BC%8C%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0shouldComponentUpdate/)
 - [如何实现分享海报](https://blog.yxlazy.xyz/2022/06/30/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%88%86%E4%BA%AB%E6%B5%B7%E6%8A%A5/)
 - [使用husky+lint-staged规范代码格式](https://blog.yxlazy.xyz/2022/03/03/%E4%BD%BF%E7%94%A8husky+lint-staged%E8%A7%84%E8%8C%83%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F/)
 - [axios源码学习](https://blog.yxlazy.xyz/2022/03/01/axios%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
 - [react-router v6 api学习](https://blog.yxlazy.xyz/2022/02/15/react-router%20v6%20api%E5%AD%A6%E4%B9%A0/)
-- [如何实现图片懒加载](https://blog.yxlazy.xyz/2022/01/08/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/)
 <!-- BLOG-POST-LIST:END -->
