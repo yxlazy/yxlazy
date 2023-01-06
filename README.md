@@ -41,6 +41,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
   <img align="Top Langs" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxlazy&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
