@@ -17,8 +17,8 @@ jobs:
           # 参考：https://github.com/anmol098/waka-readme-stats#flags-available
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
-          # SHOW_COMMIT: "False"
-          # SHOW_DAYS_OF_WEEK: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           # SHOW_LANGUAGE: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
