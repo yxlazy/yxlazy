@@ -42,9 +42,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%207%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-664%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-665%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -61,17 +61,17 @@ Git Config               13 mins             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71% 
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   31.43% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   44.44% 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   30.56% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 11/01/2023 14:07:11 UTC
+ Last Updated on 11/01/2023 15:16:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
