@@ -42,7 +42,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-673%20Thousand%20lines%20of%20code-blue)
 
@@ -50,11 +50,11 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 30 mins       ████████████░░░░░░░░░░░░░   50.91% 
-TypeScript               1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   34.75% 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+Vue.js                   7 hrs 30 mins       ███████████████████░░░░░░   76.05% 
+TypeScript               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
@@ -71,7 +71,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2023 16:08:12 UTC
+ Last Updated on 31/01/2023 17:07:42 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
