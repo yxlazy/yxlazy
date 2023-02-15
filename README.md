@@ -42,9 +42,9 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-698%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,16 +62,16 @@ JSON                     3 mins              ░░░░░░░░░░░�
 
 ```text
 TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   30.56 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 ```
 
 
 
- Last Updated on 15/02/2023 10:08:20 UTC
+ Last Updated on 15/02/2023 11:07:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
