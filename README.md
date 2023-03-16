@@ -42,7 +42,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -50,11 +50,11 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   40.63 % 
-C                        1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   39.61 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-ca65 assembler           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+C                        1 hr 21 mins        ███████████░░░░░░░░░░░░░░   45.50 % 
+TypeScript               1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.72 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+ca65 assembler           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,7 +70,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2023 16:08:14 UTC
+ Last Updated on 16/03/2023 17:01:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
