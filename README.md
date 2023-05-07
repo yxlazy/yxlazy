@@ -42,7 +42,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -50,7 +50,10 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        3 hrs 55 mins       ███████████████████████░░   93.70 % 
+Objective-C              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,7 +69,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 16:01:55 UTC
+ Last Updated on 07/05/2023 17:01:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
