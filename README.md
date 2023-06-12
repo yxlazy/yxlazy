@@ -32,7 +32,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 📫 How to reach me: 
-  [![blog](https://img.shields.io/badge/-Blog-success?style=plastic)](https://www.yxlazy.xyz)
+  [![blog](https://img.shields.io/badge/-Blog-success?style=plastic)](https://yxlazy.github.io)
 - ⚡ Fun fact: Code is my greatest pleasure
 
 <a href="https://github.com/yxlazy">
