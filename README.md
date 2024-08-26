@@ -48,7 +48,7 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 1 min          █████████████████████████   100.00 % 
+Markdown                 55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,7 +63,7 @@ HTML                     4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 06:29:01 UTC
+ Last Updated on 26/08/2024 06:29:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
