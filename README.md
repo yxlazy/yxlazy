@@ -48,7 +48,11 @@ I like to learn ✨ new technology ✨ and want to study every detail of it.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        44 mins             ████████████████████████░   97.15 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,7 +67,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 06:36:39 UTC
+ Last Updated on 15/09/2025 06:37:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📕 Latest Blog Posts
